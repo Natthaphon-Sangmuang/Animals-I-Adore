@@ -1506,6 +1506,9 @@ body {
   .p1-sect5 {
     height: 1100px;
   }
+  .p1-sect5-bar {
+    width:100px;
+  }
   .p1-sect5-text-box {
     height: 460px;
   }
