@@ -1628,27 +1628,27 @@ body {
     margin-left: 90px;
   }
 }
-@media (max-width: 1000px) {
+@media (max-width: 1080px) {
   .textbox {
-    left: 68px;
+    left: 140px;
   }
   .img {
-    left: 68px;
+    left: 140px;
   }
   .circle-shadow1 {
-    left: 320px;
+    left: 360px;
   }
   .circle-shadow2 {
-    left: 476px;
+    left: 558px;
   }
   .circle-shadow3 {
     left: 144px;
   }
   .circle-img1 {
-    left: 296px;
+    left: 356px;
   }
   .circle-img2 {
-    left: 452px;
+    left: 532px;
   }
   .circle-img3 {
     left: 120px;
@@ -1658,23 +1658,26 @@ body {
   .textbox {
     left: 48px;
   }
+  .img {
+    left: 48px;
+  }
   .circle-shadow1 {
-    left: 270px;
+    left: 290px;
   }
   .circle-shadow2 {
-    left: 426px;
+    left: 470px;
   }
   .circle-shadow3 {
-    left: 84px;
+    left: 124px;
   }
   .circle-img1 {
-    left: 246px;
+    left: 266px;
   }
   .circle-img2 {
-    left: 402px;
+    left: 446px;
   }
   .circle-img3 {
-    left: 70px;
+    left: 100px;
   }
   .square1,
   .square2,
