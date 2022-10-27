@@ -1527,6 +1527,9 @@ body {
   .p2-sect3 {
     height: 1020px;
   }
+  .p2-sect3-bar {
+    width:160px;
+  }
   .p2-sect3-text-box {
     height: 430px;
   }
